@@ -1,0 +1,94 @@
+
+    @font-face {
+        font-family: Abhi-font;
+        src: url("./FONTS/");
+    }
+    *{
+        margin:0px;
+        padding: 0px;
+    }
+    .zeroth , .first, .second ,.third , .fourth , .fifth , .sixth, .seventh, .eight, .ninth, .tenth, .eleventh ,.twelveth, .thirteen, .fourteen, .a_15,.a_16, .a_17, .a_18, .a_19, .a_20, .a_21  {
+        width:100%;
+        height:100vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: center;
+        display: grid;
+        place-items: center;
+        font-size:3rem;
+        text-shadow: -3px 3px black;
+        color:#fff;
+        background-attachment: fixed;
+       
+    }
+    .scroll{
+        font-size: 2rem;
+        position: relative;
+        display: flex;
+        top:300px;
+        justify-content: center;
+    }
+    .zeroth{
+        background-image: url("Anime\ Freak\ Anime\ Insight\ Yo.jpg");
+    }
+    .first{
+        background-image: url("./cropped-1366-768-1329765.jpeg");
+    }
+    .second{
+        background-image: url("./cropped-1366-768-764362.jpg");
+    }
+    .third{
+        background-image: url("./cropped-1366-768-13992.png");
+    }
+    .fourth{
+        background-image: url("./cropped-1366-768-582804.png");
+    }
+    .fifth{
+        background-image: url("./cropped-1366-768-698501.png");
+    }
+    .sixth{
+        background-image:url("./1099445.png"); 
+    }
+    .seventh{
+        background-image: url("./cropped-1366-768-1319293.jpeg");
+    }
+    .eight{
+        background-image: url("./cropped-1366-768-877013.png");
+    }
+    .ninth{
+        background-image: url("./cropped-1366-768-747570.png");
+    }
+    .tenth{
+        background-image: url("./cropped-1366-768-1336959.jpeg");
+    }
+    .eleventh{
+        background-image: url("./cropped-1366-768-1031844.jpg");
+    }
+    .twelveth{
+        background-image: url("./cropped-1366-768-1277609.png");
+    }
+    .thirteen{
+        background-image: url("./cropped-1366-768-978464.jpg");
+    }
+    .fourteen{
+        background-image: url("./cropped-1366-768-737490.png");
+    }
+    .a_15{
+        background-image: url("./9300928.png");
+    }
+    .a_16{
+        background-image: url("./cropped-1366-768-1031919.jpg");
+    }
+    .a_17{
+        background-image: url("./cropped-1366-768-1324943.png");
+    }
+    .a_18{
+        background-image: url("./cropped-1366-768-738176.png");
+    }
+    .a_19{
+        background-image: url("./cropped-1366-768-555561.jpg");
+    }
+    .a_20{
+        background-image: url("./cropped-1366-768-506620.jpg");
+    }
+  

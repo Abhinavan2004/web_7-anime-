@@ -91,4 +91,15 @@
     .a_20{
         background-image: url("./cropped-1366-768-506620.jpg");
     }
+    .a_21{
+        background-image: url("./cropped-1366-768-1219252.jpg");
+    }
   
+    @media (width < 1200px) {
+        .zeroth , .first, .second ,.third , .fourth , .fifth , .sixth, .seventh, .eight, .ninth, .tenth, .eleventh ,.twelveth, .thirteen, .fourteen, .a_15,.a_16, .a_17, .a_18, .a_19, .a_20, .a_21  {  
+           width:min-content;
+           background-repeat: no-repeat;
+           background-size: cover;
+        
+    }
+}
